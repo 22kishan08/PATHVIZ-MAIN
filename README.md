@@ -28,8 +28,8 @@
 https://github.com/22kishan08/PATHVIZ-MAIN
 ```
 
-#### Install Dependancies 
-Run following command: 
+
+###Run following command: 
 
 npm install
 
